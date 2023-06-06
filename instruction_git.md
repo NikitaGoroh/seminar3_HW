@@ -126,4 +126,3 @@ VSСode дает возможность выбрать какое изменен
     git remote add origin https://github.com/address_of_repo.git
     git branch -M main
     git push -u origin main
-
